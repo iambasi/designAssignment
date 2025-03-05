@@ -23,4 +23,3 @@ Subtle hover effects on buttons and cards for a delightful user experience.
 Enhanced CTA effectiveness with clear hover/tap states and persuasive copy.
 I’m eager to discuss the design decisions, user flow, and overall methodology in the review session. Thank you for this opportunity—I’m looking forward to your feedback!
 
-Best regards,
